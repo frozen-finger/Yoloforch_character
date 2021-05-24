@@ -8,15 +8,25 @@ hyperparameters中为超参数
 文件中包括数据集的搜集和处理
 
 
-├── env
+├── env：
+
 │   ├── urllib, requests
+
 │   ├── beautifulsoup
+
 │   ├── PIL
+
 │   ├── Selenium
+
 │   ├── torch
+
 │   ├── numpy
+
 │   ├── torchvision
+
 │   ├── MicrosoftWebDriver.exe
+
 │   ├── torch
+
 
 run train.py //训练
